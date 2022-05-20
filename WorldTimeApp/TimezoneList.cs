@@ -6,13 +6,11 @@ namespace WorldTimeApp
     public class TimezoneList
     {
         private readonly IHttpClientFactory _httpClientFactory;
-        private readonly IConfiguration _config;
 
         // Constructor
-        public TimezoneList(IHttpClientFactory httpClientFactory, IConfiguration config)
+        public TimezoneList(IHttpClientFactory httpClientFactory)
         {
             _httpClientFactory = httpClientFactory;
-            _config = config;
         }
 
 

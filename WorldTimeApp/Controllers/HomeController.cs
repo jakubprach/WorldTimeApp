@@ -30,7 +30,7 @@ namespace WorldTimeApp.Controllers
 
         public async Task<IActionResult> ListTimeZones()
         {
-            TimezoneList timezoneList = new TimezoneList(_fac, _config);
+            TimezoneList timezoneList = new TimezoneList(_fac);
 
             var list = await timezoneList.GetTime();
 

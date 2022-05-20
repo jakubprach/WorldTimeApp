@@ -10,7 +10,6 @@ namespace WorldTimeApp
         private readonly IHttpClientFactory _httpClientFactory;
         private readonly IConfiguration _config;
 
-        // Constructor
         public TimeService(IHttpClientFactory httpClientFactory, IConfiguration config)
         {
             _httpClientFactory = httpClientFactory;
