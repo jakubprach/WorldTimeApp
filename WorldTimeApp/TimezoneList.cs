@@ -7,7 +7,6 @@ namespace WorldTimeApp
     {
         private readonly IHttpClientFactory _httpClientFactory;
 
-        // Constructor
         public TimezoneList(IHttpClientFactory httpClientFactory)
         {
             _httpClientFactory = httpClientFactory;
@@ -15,7 +14,7 @@ namespace WorldTimeApp
 
 
 
-        public async Task<List<string>> GetTime()
+        public async Task<List<string>> GetTimezones()
         {
             var httpClient = _httpClientFactory.CreateClient("WorldTime");
 

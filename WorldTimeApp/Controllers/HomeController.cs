@@ -32,7 +32,7 @@ namespace WorldTimeApp.Controllers
         {
             TimezoneList timezoneList = new TimezoneList(_fac);
 
-            var list = await timezoneList.GetTime();
+            var list = await timezoneList.GetTimezones();
 
             ViewBag.TimeZones = list;
 
