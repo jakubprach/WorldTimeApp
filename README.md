@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
-![landing][landing]
+![alt text](https://github.com/jakubprach/WorldTimeApp/blob/master/landing.png)
 
 <p align="right">(<a href="#top">back</a>)</p>
 
