@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
-![Homepage][product-screenshot]
+![Homepage][landing]
 
 <p align="right">(<a href="#top">back</a>)</p>
 
