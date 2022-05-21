@@ -45,3 +45,10 @@
 * [.NET Core 6](https://docs.microsoft.com/pl-pl/dotnet/core/whats-new/dotnet-6)
 * [WorldTimeAPI](http://worldtimeapi.org/)
 
+
+## Contact
+
+contact@jakubprach.eu
+
+
+<p align="right">(<a href="#top">powrót</a>)</p>
