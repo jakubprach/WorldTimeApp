@@ -51,10 +51,8 @@
     List of all available timezones when non existing endpoint is passed
 </p>
 
-![Listing][https://github.com/jakubprach/WorldTimeApp/blob/master/timezones.png]
-<p align="center">
-    Edytowanie użytkownika
-</p>
+![Listing](https://github.com/jakubprach/WorldTimeApp/blob/master/timezones.png)
+
 
 
 ## Contact
