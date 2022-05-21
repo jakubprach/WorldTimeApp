@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
-![alt text](https://github.com/jakubprach/WorldTimeApp/blob/master/landing.png)
+![Landing](https://github.com/jakubprach/WorldTimeApp/blob/master/landing.png)
 
 <p align="right">(<a href="#top">back</a>)</p>
 
@@ -44,6 +44,17 @@
 * [C#](https://docs.microsoft.com/pl-pl/dotnet/csharp/tour-of-csharp/)
 * [.NET Core 6](https://docs.microsoft.com/pl-pl/dotnet/core/whats-new/dotnet-6)
 * [WorldTimeAPI](http://worldtimeapi.org/)
+
+## Functionality
+
+<p align="center">
+    List of all available timezones when non existing endpoint is passed
+</p>
+
+![Listing][https://github.com/jakubprach/WorldTimeApp/blob/master/listing.png]
+<p align="center">
+    Edytowanie użytkownika
+</p>
 
 
 ## Contact
