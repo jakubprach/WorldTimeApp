@@ -16,13 +16,9 @@
   <summary>Summary</summary>
   <ol>
     <li>
-      <a href="#About">About</a>
       <ul>
         <li><a href="#Tech-Stack">Tech Stack</a></li>
       </ul>
-    </li>
-    <li>
-        <a href="#How-to-install">How to install</a>
     </li>
     <li><a href="#Functionality">Functionality</a></li>
     <li><a href="#Contact">Contact</a></li>
@@ -67,4 +63,4 @@
 contact@jakubprach.eu
 
 
-<p align="right">(<a href="#top">powrót</a>)</p>
+<p align="right">(<a href="#top">back</a>)</p>
