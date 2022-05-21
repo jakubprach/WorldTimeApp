@@ -15,9 +15,7 @@
 <details>
   <summary>Summary</summary>
   <ol>
-    <li>
     <li><a href="#Tech-Stack">Tech Stack</a></li>
-    </li>
     <li><a href="#Functionality">Functionality</a></li>
     <li><a href="#Contact">Contact</a></li>
   </ol>
