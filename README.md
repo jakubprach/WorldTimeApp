@@ -4,7 +4,7 @@
 
 <h3 align="center">WorldTimeApp</h3>
   <p align="center">
-    Website that shows current time in a specified timezone using WorldTimeAPI.
+    WebApp built using C# and .NET 6 that shows current time in a specified timezone using WorldTimeAPI.
     Timezone is specified in appsettings.json file.
   </p>
 </div>
@@ -41,3 +41,7 @@
 
 
 ### Tech Stack
+* [C#](https://docs.microsoft.com/pl-pl/dotnet/csharp/tour-of-csharp/)
+* [.NET Core 6](https://docs.microsoft.com/pl-pl/dotnet/core/whats-new/dotnet-6)
+* [WorldTimeAPI](http://worldtimeapi.org/)
+
