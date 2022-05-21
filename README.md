@@ -46,14 +46,17 @@
 * [WorldTimeAPI](http://worldtimeapi.org/)
 
 ## Functionality
-
 <p align="center">
-    List of all available timezones when non existing endpoint is passed
+    Passing endpoint through appsettings.json file
 </p>
 
 ```javascript
 { "Endpoint": "Europe/Warsaw" }
 ```
+
+<p align="center">
+    List of all available timezones when non existing endpoint is passed
+</p>
 
 ![Listing](https://github.com/jakubprach/WorldTimeApp/blob/master/timezones.png)
 
