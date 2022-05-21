@@ -51,6 +51,10 @@
     List of all available timezones when non existing endpoint is passed
 </p>
 
+```json
+    Endpoint: "Europe/Warsaw"
+ ```
+
 ![Listing](https://github.com/jakubprach/WorldTimeApp/blob/master/timezones.png)
 
 
